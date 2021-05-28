@@ -1,0 +1,14 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<main>
+  
+<nav id="navbar" class="nav">
+  <a href="#welcome_section">Home</a>
+  <a href="#projects">Projects</a> 
+ </nav>
+
+<section class="welcome-section" id ="welcome-section">
+  <img width=100px src="https://s.cdpn.io/profiles/user/4336337/512.jpg?1588152307" > </img>
+<h1>"Welcome! This is my Portfolio." <a id ="profile-link" target=blank href="https://www.freecodecamp.org/louve">Louve</a></h1></section>
+
+</main>
